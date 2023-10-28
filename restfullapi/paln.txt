@@ -1,0 +1,11 @@
+building - rest api
+
+functionalities:
+
+Get /user : list of all user in html format
+Get /api/user : list all user in json format
+Get /api/user/:id : info of the user with provided id
+post /api/user : create new user
+patch /api/user/:id : edit user with given id
+delete /ai/user/:id : delete user with given id 
+
